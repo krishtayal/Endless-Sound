@@ -2,6 +2,6 @@ Endless Sound is a website that continously streams music. Music is chosen from 
 
 
 The website is still under development. you will encounter some bugs. if you would like to contribute to the repository, please feel free.
-
+and enjoy your music
 Endless-Sound
 =============
